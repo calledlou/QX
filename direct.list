@@ -1,5 +1,5 @@
+## 直连网站
 user-agent,WeChat*,direct
-
 host-suffix,163.com,direct
 host-suffix,360buyimg.com,direct
 host-suffix,air-matters.com,direct
@@ -38,9 +38,6 @@ host-suffix,iqiyi.com,direct
 host-suffix,jd.com,direct
 host-suffix,jianshu.com,direct
 host-suffix,knewone.com,direct
-host-suffix,le.com,direct
-host-suffix,lecloud.com,direct
-host-suffix,lemicp.com,direct
 host-suffix,licdn.com,direct
 host-suffix,luoo.net,direct
 host-suffix,meituan.com,direct
@@ -49,9 +46,6 @@ host-suffix,mi.com,direct
 host-suffix,miaopai.com,direct
 host-suffix,microsoft.com,direct
 host-suffix,microsoftonline.com,direct
-host-suffix,miui.com,direct
-host-suffix,miwifi.com,direct
-host-suffix,mob.com,direct
 host-suffix,netease.com,direct
 host-suffix,office.com,direct
 host-keyword,officecdn,direct
@@ -72,16 +66,11 @@ host-suffix,qiniucdn.com,direct
 host-suffix,qiyipic.com,direct
 host-suffix,qq.com,direct
 host-suffix,qqurl.com,direct
-host-suffix,rarbg.to,direct
-host-suffix,ruguoapp.com,direct
 host-suffix,segmentfault.com,direct
 host-suffix,sinaapp.com,direct
-host-suffix,smzdm.com,direct
-host-suffix,snapdrop.net,direct
 host-suffix,sogou.com,direct
 host-suffix,sogoucdn.com,direct
 host-suffix,sohu.com,direct
-host-suffix,soku.com,direct
 host-suffix,speedtest.net,direct
 host-suffix,ssfw.gdcourts.gov.cn,direct
 host-suffix,sspai.com,direct
@@ -91,10 +80,6 @@ host-suffix,taobao.com,direct
 host-suffix,tencent.com,direct
 host-suffix,tenpay.com,direct
 host-keyword,.tmall.com,direct
-host-suffix,tudou.com,direct
-host-suffix,umetrip.com,direct
-host-suffix,upaiyun.com,direct
-host-suffix,upyun.com,direct
 host-suffix,veryzhun.com,direct
 host-suffix,weather.com,direct
 host-suffix,weibo.com,direct
@@ -110,10 +95,8 @@ host-suffix,youdao.com,direct
 host-suffix,youku.com,direct
 host-suffix,zhihu.com,direct
 host-suffix,zhimg.com,direct
-host-suffix,zimuzu.tv,direct
-host-suffix,zoho.com,direct
 
-## fix修复
+## fix指正
 # > 苹果推送服务
 host-keyword, push.apple.com, direct
 # > 苹果时间同步
