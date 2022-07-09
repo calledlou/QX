@@ -5,7 +5,6 @@ host-suffix,360buyimg.com,direct
 host-keyword,alicdn,direct
 host-keyword,alipay,direct
 host-keyword,aliyun,direct
-host-keyword,taobao,direct
 host-suffix,amap.com,direct
 host-suffix,autonavi.com,direct
 host-keyword,baidu,direct
@@ -14,12 +13,7 @@ host-suffix,bdstatic.com,direct
 host-suffix,bilibili.com,direct
 host-suffix,bilivideo.com,direct
 host-suffix,caiyunapp.com,direct
-host-suffix,dianping.com,direct
 host-suffix,ele.me,direct
-host-suffix,feng.com,direct
-host-suffix,iciba.com,direct
-host-suffix,ifeng.com,direct
-host-suffix,ifengimg.com,direct
 host-suffix,iqiyi.com,direct
 host-suffix,jd.com,direct
 host-suffix,jianshu.com,direct
@@ -35,14 +29,11 @@ host-suffix,office365.com,direct
 host-suffix,pkulaw.com,direct
 host-suffix,qq.com,direct
 host-suffix,qqurl.com,direct
-host-suffix,sinaapp.com,direct
 host-suffix,sogou.com,direct
 host-suffix,sogoucdn.com,direct
 host-suffix,sohu.com,direct
 host-suffix,speedtest.net,direct
 host-suffix,ssfw.gdcourts.gov.cn,direct
-host-suffix,sspai.com,direct
-host-suffix,suning.com,direct
 host-suffix,szlawyers.com,direct
 host-suffix,taobao.com,direct
 host-suffix,tencent.com,direct
@@ -51,21 +42,17 @@ host-keyword,.tmall.com,direct
 host-suffix,weibo.com,direct
 host-suffix,law.wkinfo.com.cn,direct
 host-suffix,xmcdn.com,direct
-host-suffix,xunlei.com,direct
 host-suffix,yhd.com,direct
 host-suffix,yihaodianimg.com,direct
 host-suffix,yinxiang.com,direct
 host-suffix,ykimg.com,direct
-host-suffix,youdao.com,direct
 host-suffix,youku.com,direct
 host-suffix,zhihu.com,direct
 host-suffix,zhimg.com,direct
 
 ## fix指正
 # > Outlook
-DOMAIN,outlook.office365.com,direct
-DOMAIN,smtp-mail.outlook.com,direct
-DOMAIN,smtp.office365.com,direct
+domain,smtp-mail.outlook.com,direct
 # > Tencent
 IP-CIDR,182.254.116.0/24,direct
 IP-CIDR,203.205.238.0/23,direct
@@ -73,3 +60,4 @@ IP-CIDR,203.205.254.0/23,direct
 # > 路由器后台
 ip-cidr, 192.168.0.1/24, direct
 ip-cidr, 192.168.1.1/24, direct
+ip-cidr, 192.168.2.1/24, direct
