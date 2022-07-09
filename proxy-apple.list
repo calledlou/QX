@@ -8,6 +8,3 @@ host,itunes.apple.com,proxy
 host-suffix,apps.apple.com,proxy
 host-suffix,blobstore.apple.com,proxy
 host,cvws.icloud-content.com,proxy
-
-#修复转圈圈
-;host, p14-buy.itunes.apple.com, proxy
