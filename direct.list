@@ -1,7 +1,6 @@
 ## 直连网站
 user-agent,WeChat*,direct
 host-suffix,163.com,direct
-host-suffix,360buyimg.com,direct
 host-keyword,alicdn,direct
 host-keyword,alipay,direct
 host-keyword,aliyun,direct
@@ -16,10 +15,6 @@ host-suffix,caiyunapp.com,direct
 host-suffix,ele.me,direct
 host-suffix,iqiyi.com,direct
 host-suffix,jd.com,direct
-host-suffix,jianshu.com,direct
-host-suffix,meituan.com,direct
-host-suffix,meituan.net,direct
-host-suffix,mi.com,direct
 host-suffix,microsoft.com,direct
 host-suffix,microsoftonline.com,direct
 host-suffix,netease.com,direct
@@ -41,11 +36,6 @@ host-suffix,tenpay.com,direct
 host-keyword,.tmall.com,direct
 host-suffix,weibo.com,direct
 host-suffix,law.wkinfo.com.cn,direct
-host-suffix,xmcdn.com,direct
-host-suffix,yhd.com,direct
-host-suffix,yihaodianimg.com,direct
-host-suffix,yinxiang.com,direct
-host-suffix,ykimg.com,direct
 host-suffix,youku.com,direct
 host-suffix,zhihu.com,direct
 host-suffix,zhimg.com,direct
