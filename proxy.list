@@ -12,6 +12,9 @@ host-keyword,dropbox,proxy
 host-suffix,twimg.com,proxy
 host-keyword,blogspot,proxy
 host-suffix,youtu.be,proxy
+host-keyword,github,proxy
+host-keyword,telegram,proxy
+host-keyword,whatsapp,proxy
 
 ## 常见国外域名列表
 host-suffix,9to5mac.com,proxy
@@ -106,7 +109,6 @@ host-suffix,gfx.ms,proxy
 host-suffix,ggpht.com,proxy
 host-suffix,ghostnoteapp.com,proxy
 host-suffix,git.io,proxy
-host-keyword,github,proxy
 host-suffix,globalsign.com,proxy
 host-suffix,gmodules.com,proxy
 host-suffix,godaddy.com,proxy
