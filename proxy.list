@@ -40,7 +40,6 @@ host-suffix,att.com,proxy
 host-suffix,awsstatic.com,proxy
 host-suffix,azureedge.net,proxy
 host-suffix,azurewebsites.net,proxy
-host-suffix,bing.com,proxy
 host-suffix,bintray.com,proxy
 host-suffix,bit.com,proxy
 host-suffix,bit.ly,proxy
