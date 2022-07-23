@@ -12,15 +12,8 @@ host-suffix,bdstatic.com,direct
 host-suffix,bilibili.com,direct
 host-suffix,bilivideo.com,direct
 host-suffix,caiyunapp.com,direct
-host-suffix,ele.me,direct
-host-suffix,iqiyi.com,direct
 host-suffix,jd.com,direct
-host-suffix,microsoft.com,direct
-host-suffix,microsoftonline.com,direct
 host-suffix,netease.com,direct
-host-suffix,office.com,direct
-host-keyword,officecdn,direct
-host-suffix,office365.com,direct
 host-suffix,pkulaw.com,direct
 host-suffix,qq.com,direct
 host-suffix,qqurl.com,direct
