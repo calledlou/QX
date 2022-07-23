@@ -16,7 +16,6 @@ host-keyword,telegram,proxy
 host-keyword,whatsapp,proxy
 
 ## 常见国外域名列表
-host-suffix,9to5mac.com,proxy
 host-suffix,adblockplus.org,proxy
 host-suffix,adobe.com,proxy
 host-suffix,akamaized.net,proxy
@@ -210,9 +209,7 @@ host-suffix,sony.com,proxy
 host-suffix,soundcloud.com,proxy
 host-suffix,sourceforge.net,proxy
 host-suffix,spotify.com,proxy
-host-suffix,squarespace.com,proxy
 host-suffix,sstatic.net,proxy
-host-suffix,st.luluku.pw,proxy
 host-suffix,stackoverflow.com,proxy
 host-suffix,startpage.com,proxy
 host-suffix,staticflickr.com,proxy
@@ -235,12 +232,9 @@ host-suffix,tmblr.co,proxy
 host-suffix,todoist.com,proxy
 host-suffix,trello.com,proxy
 host-suffix,trustasiassl.com,proxy
-host-suffix,tumblr.co,proxy
-host-suffix,tumblr.com,proxy
 host-suffix,tweetdeck.com,proxy
 host-suffix,tweetmarker.net,proxy
 host-suffix,twitch.tv,proxy
-host-suffix,txmblr.com,proxy
 host-suffix,typekit.net,proxy
 host-suffix,ubertags.com,proxy
 host-suffix,ublock.org,proxy
