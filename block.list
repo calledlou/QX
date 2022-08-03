@@ -213,3 +213,7 @@ HOST,pgdt.ugdtimg.com, reject
 HOST,splashqqlive.gtimg.com, reject
 HOST,vv.video.qq.com, reject
 HOST,wa.gtimg.com, reject
+
+# > 同花顺
+DOMAIN,adm.10jqka.com.cn, reject
+DOMAIN,stat.10jqka.com.cn, reject
