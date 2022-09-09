@@ -216,3 +216,92 @@ HOST,wa.gtimg.com, reject
 # > 同花顺
 DOMAIN,adm.10jqka.com.cn, reject
 DOMAIN,stat.10jqka.com.cn, reject
+
+# > 微博
+HOST-KEYWORD,fastimage.uve.weibo.com, reject
+HOST-KEYWORD,adimg.uve.weibo.com, reject
+HOST-SUFFIX,adimg.vue.weibo.com, reject
+HOST-SUFFIX,zymo.mps.weibo.com, reject
+HOST-SUFFIX,weibomingzi.com, reject
+HOST-SUFFIX,sdkapp.uve.weibo.com, reject
+HOST-SUFFIX,s.alitui.weibo.com, reject
+HOST-SUFFIX,promote.biz.weibo.cn, reject
+HOST-SUFFIX,gw5.push.mcp.weibo.cn, reject
+HOST-SUFFIX,game.weibo.cn, reject
+HOST-SUFFIX,biz.weibo.com, reject
+HOST-SUFFIX,adimg.uve.weibo.com, reject
+HOST-SUFFIX,game.weibo.com, reject
+HOST-SUFFIX,gw6.push.mcp.weibo.cn, reject
+HOST-KEYWORD,ads.viber.com, reject
+HOST-KEYWORD,ads-d.viber.com, reject
+HOST-KEYWORD,ads.aws.viber.com, reject
+HOST-SUFFIX,alitui.weibo.com, reject
+HOST,adimg.uve.weibo.com, reject
+HOST,adimg.vue.weibo.com, reject
+HOST-KEYWORD,adimg.uve.weibo.com,REJECT
+HOST-KEYWORD,alitui.weibo.com,REJECT
+HOST-KEYWORD,biz.weibo.com,REJECT
+HOST-KEYWORD,game.weibo.cn,REJECT
+HOST-KEYWORD,game.weibo.com,REJECT
+HOST-KEYWORD,gw5.push.mcp.weibo.cn,REJECT
+HOST-KEYWORD,gw6.push.mcp.weibo.cn,REJECT
+HOST-KEYWORD,promote.biz.weibo.cn,REJECT
+HOST-KEYWORD,s.alitui.weibo.com,REJECT
+HOST-KEYWORD,sdkapp.uve.weibo.com,REJECT
+HOST-KEYWORD,weibomingzi.com,REJECT
+HOST-KEYWORD,zymo.mps.weibo.com,REJECT
+HOST-KEYWORD,adimg.vue.weibo.com,REJECT
+HOST-KEYWORD,dp.im.weibo.cn,REJECT
+HOST-KEYWORD,m.game.weibo.cn,REJECT
+HOST-KEYWORD,c.biz.weibo.com,REJECT
+HOST-KEYWORD,c.wcpt.biz.weibo.com,REJECT
+HOST-KEYWORD,click.uve.weibo.com,REJECT
+HOST-KEYWORD,wax.weibo.com,REJECT
+HOST-KEYWORD,wbapp.uve.weibo.com,REJECT
+HOST-KEYWORD,widget.weibo.com,REJECT
+HOST-KEYWORD,zc.biz.weibo.com,REJECT
+HOST-KEYWORD,dsp.edm.weibo.cn,REJECT
+HOST-KEYWORD,alitui.weibo.com.cn,REJECT
+HOST-KEYWORD,biz.weibo.com.cn,REJECT
+HOST-KEYWORD,game.weibo.com.cn,REJECT
+HOST-KEYWORD,tui.weibo.com,REJECT
+HOST-KEYWORD,wax.weibo.com.cn,REJECT
+HOST-KEYWORD,ad.weibo.com,REJECT
+HOST-KEYWORD,adstrategy.biz.weibo.com,REJECT
+HOST-KEYWORD,s.weibo.com,REJECT
+HOST-KEYWORD,vs.biz.weibo.com,REJECT
+
+# > 淘宝
+HOST-SUFFIX,apoll.m.taobao.com, reject
+HOST-SUFFIX,h-adashx.ut.taobao.com, reject
+HOST-SUFFIX,w.m.taobao.com, reject
+HOST,tunion-api.m.taobao.com, reject
+HOST-SUFFIX,ai.m.taobao.com, reject
+HOST-SUFFIX,re.m.taobao.com, reject
+HOST-SUFFIX,agoodm.m.taobao.com, reject
+HOST-SUFFIX,ai.taobao.com, reject
+HOST-SUFFIX,api.waptest.taobao.com, reject
+HOST-SUFFIX,dsp.simba.taobao.com, reject
+HOST-SUFFIX,fav.simba.taobao.com, reject
+HOST-SUFFIX,m.simba.taobao.com, reject
+HOST-SUFFIX,mclick.simba.taobao.com, reject
+HOST-SUFFIX,re.taobao.com, reject
+HOST-SUFFIX,redirect.simba.taobao.com, reject
+HOST-SUFFIX,simba.m.taobao.com, reject
+HOST-SUFFIX,srd.simba.taobao.com, reject
+HOST-SUFFIX,temai.taobao.com, reject
+HOST-SUFFIX,textlink.simba.taobao.com, reject
+HOST-SUFFIX,unitacs.m.taobao.com, reject
+HOST-SUFFIX,acs4baichuan.m.taobao.com, reject
+HOST-SUFFIX,adashbc.ut.taobao.com, reject
+HOST-SUFFIX,adash-c.ut.taobao.com, reject
+HOST-SUFFIX,adashxgc.ut.taobao.com, reject
+HOST-SUFFIX,adashx4yt.m.taobao.com, reject
+HOST-SUFFIX,tunion-api.m.taobao.com, reject
+HOST-SUFFIX,tns.simba.taobao.com, reject
+HOST-SUFFIX,click.mz.simba.taobao.com, reject
+HOST-SUFFIX,click.simba.taobao.com, reject
+HOST-SUFFIX,click.tz.simba.taobao.com, reject
+HOST-SUFFIX,stat.simba.taobao.com, reject
+HOST-SUFFIX,m-adash.m.taobao.com, reject
+HOST-SUFFIX,adashbc.m.taobao.com, reject
